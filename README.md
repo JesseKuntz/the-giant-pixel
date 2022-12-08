@@ -1,9 +1,7 @@
-# The Giant Pixel
+<h1 align="center">
+  The Giant Pixel
+</h1>
 
-The Giant Pixel is a project dealing with LEDs controlled by a Raspberry Pi and some JavaScript.
+### [👉 Full Project Description 👈](https://jessekuntz.github.io/?project=giant-pixel)
 
-## Things to Note
-
-This project is in very early stages of development, and while it functions, there is much to do to improve it. 
-
-If you want a more detailed account of what it actually is, click [here](https://jessekuntz.github.io?project=giant-pixel).
+This is just a collection of scripts that run on The Giant Pixel.
