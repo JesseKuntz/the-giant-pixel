@@ -2,6 +2,6 @@
   The Giant Pixel
 </h1>
 
-### [👉 Full Project Description 👈](https://jessekuntz.github.io/?project=giant-pixel)
+### [👉 Full Project Description 👈](https://jessekuntz.github.io/the-giant-pixel.html)
 
 This is just a collection of scripts that run on The Giant Pixel.
